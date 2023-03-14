@@ -11,21 +11,19 @@ Sistema backend feito com java e conexão com banco mysql sem frameworks.
 1.2 Requisitos do projeto
 	ENTIDADES:
 		*Projetos;
-		*nome;
-		*descrição
-		*Data de Criação;
-		*Data de Atualização;
-		
+			*nome;
+			*descrição
+			*Data de Criação;
+			*Data de Atualização;
 		
 		*tarefa;
-		*nome;
-		*descrição;
-		*status
-		*observação;
-		*prazo;
-		*data de criação;
-		*data de atualização;
-	
+			*nome;
+			*descrição;
+			*status
+			*observação;
+			*prazo;
+			*data de criação;
+			*data de atualização;
 	
 	REQUISITOS:
 		*Permitir o cadastro de projetos;
